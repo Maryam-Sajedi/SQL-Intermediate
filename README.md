@@ -87,7 +87,7 @@ All queries run against a shared, AWS-hosted PostgreSQL database through DBeaver
 
 ## How to use this repo
 
-1. Complete lessons 1-4 in order.
+1. Complete lessons 1-5 in order.
 2. For each lesson, review the content and run the example queries against the database before moving on.
    3.After completing the lessons, workthrough the exercises by writing your own SQL queries for each question. Save your solutions in a `.sql` file, and compare your results against the expected outputs in [Northwind Query Outputs](5_northwind_exercises_query_outputs.md).
 
